@@ -7,7 +7,7 @@ overviews/%.xml: ../outlines/overviews/%.md
 	../tools/overview2xml $^ > $@
 
 schedule.sect: $(MKSCHEDULE)
-	$(MKSCHEDULE) mtwf-spring > $@
+	$(MKSCHEDULE) mwf-spring > $@
 
 # Hacks for generating a decent PDF of the schedule
 sched.sect: $(MKSCHEDULE)

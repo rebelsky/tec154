@@ -1,9 +1,9 @@
-<!ENTITY courseid "COURSE ID">
-<!ENTITY section "#">
-<!ENTITY semester "SEMESTER">
-<!ENTITY coursename "COURSE NAME">
+<!ENTITY courseid "TEC 154">
+<!ENTITY section "01">
+<!ENTITY semester "2014S">
+<!ENTITY coursename "Evolution of Technology">
 <!ENTITY school "Grinnell College">
-<!ENTITY url "http://www.cs.grinnell.edu/~rebelsky/Courses/courses/">
+<!ENTITY url "http://www.cs.grinnell.edu/~rebelsky/Courses/TEC154/2014S/">
 <!ENTITY courseurl "&url;">
 <!ENTITY grader "rebelsky@cs.grinnell.edu">
-<!ENTITY gcal "CALENDAR">
+<!ENTITY gcal "http://bit.ly/tec154gcal">

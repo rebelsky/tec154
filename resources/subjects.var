@@ -1,14 +1,258 @@
 +week
-<!ENTITY week{$week} "Getting Started">
+<!ENTITY week{$week} "Overview">
 
 +day
 <!ENTITY title{$day} "An Introduction to the Course">
-<!ENTITY abbrev{$day} "course-intro">
+<!ENTITY abbrev{$day} "intro">
+<!ENTITY reading{$day} "">
 
 +day
-<!ENTITY title{$day} "Introduction, continued">
-<!ENTITY abbrev{$day} "intro-continued">
+<!ENTITY title{$day} "What is Technology?">
+<!ENTITY abbrev{$day} "technology">
+<!ENTITY reading{$day} "">
 
 +day
-<!ENTITY title{$day} "Real Work">
-<!ENTITY abbrev{$day} "real-work">
+<!ENTITY title{$day} "More Foundational Perspectives">
+<!ENTITY abbrev{$day} "foundations">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Stone Tools (Whittaker, Anthropology)">
+
++day
+<!ENTITY title{$day} "Stone Tools (1)">
+<!ENTITY abbrev{$day} "tools-1">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Stone Tools (2)">
+<!ENTITY abbrev{$day} "tools-2">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Stone Tools (Discussion)">
+<!ENTITY abbrev{$day} "tools-discussion">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "An Engineering Perspective">
+
++day
+<!ENTITY title{$day} "Engineering (1)">
+<!ENTITY abbrev{$day} "engineering-1">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Engineering (2)">
+<!ENTITY abbrev{$day} "engineering-2">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Engineering (3)">
+<!ENTITY abbrev{$day} "engineering-3">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Food (Lyons, Chemistry)">
+
++day
+<!ENTITY title{$day} "Farming">
+<!ENTITY abbrev{$day} "farming">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Food Preservation">
+<!ENTITY abbrev{$day} "food-preservation">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Food (Discussion)">
+<!ENTITY abbrev{$day} "food-discussion">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Other Perspectives">
+
++day
+<!ENTITY title{$day} "Perspectives (1)">
+<!ENTITY abbrev{$day} "perspectives-1">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Perspectives (2)">
+<!ENTITY abbrev{$day} "perspectives-2">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Perspectives (3)">
+<!ENTITY abbrev{$day} "perspectives-3">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Human Factors in Technology">
+
++day
+<!ENTITY title{$day} "Human Factors (1)">
+<!ENTITY abbrev{$day} "human-factors-1">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Human Factors (2)">
+<!ENTITY abbrev{$day} "human-factors-2">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Human Factors (3)">
+<!ENTITY abbrev{$day} "human-factors-3">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Mid-Semester Examination">
+
++day
+<!ENTITY title{$day} "Where We've Been, Where We're Going">
+<!ENTITY abbrev{$day} "midsem-review">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Mid-Semester Exam, Part One">
+<!ENTITY abbrev{$day} "midsem-1">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Mid-Semester Exam, Part Two">
+<!ENTITY abbrev{$day} "midsem-2">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Digital Humanities (Lee, English)">
+
++day
+<!ENTITY title{$day} "Digital Humanities (1)">
+<!ENTITY abbrev{$day} "digital-humanities-1">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Digital Humanities (2)">
+<!ENTITY abbrev{$day} "digital-humanities-2">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Digital Humanities (Discussion)">
+<!ENTITY abbrev{$day} "digital-humanities-discussion">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Biotechnology (Robertson, Biology)">
+
++day
+<!ENTITY title{$day} "Biotechnology (1)">
+<!ENTITY abbrev{$day} "biotechnology-1">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Biotechnology (2)">
+<!ENTITY abbrev{$day} "biotechnology-2">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Intellectual Property (1)">
+<!ENTITY abbrev{$day} "ip-1">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Intellectual Property (Graham, Economics)">
+
++day
+<!ENTITY title{$day} "Biotechnology (Discussion)">
+<!ENTITY abbrev{$day} "biotechnology-discussion">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Bipiracy (1)">
+<!ENTITY abbrev{$day} "biopiracy-1">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Intellectual Property (2)">
+<!ENTITY abbrev{$day} "ip-2">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Biopiracy (Roper, Anthropology)">
+
++day
+<!ENTITY title{$day} "Bipiracy (2)">
+<!ENTITY abbrev{$day} "biopiracy-2">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Bipiracy (3)">
+<!ENTITY abbrev{$day} "biopiracy-3">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Owning Biology">
+<!ENTITY abbrev{$day} "owning-biology">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Technology and the Arts">
+
++day
+<!ENTITY title{$day} "Pause for Breath">
+<!ENTITY abbrev{$day} "pause">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Papermaking (Running, Art)">
+<!ENTITY abbrev{$day} "papermaking">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Technology and the Theatre (Thomas, Theatre/Dance)">
+<!ENTITY abbrev{$day} "theatre">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Social Media (Yoose, Library)">
+
++day
+<!ENTITY title{$day} "Social Media (1)">
+<!ENTITY abbrev{$day} "social-media-1">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Social Media (2)">
+<!ENTITY abbrev{$day} "social-media-2">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Social Media (Discussion)">
+<!ENTITY abbrev{$day} "social-media-discussion">
+<!ENTITY reading{$day} "">
+
++week
+<!ENTITY week{$week} "Student Presentations">
+
++day
+<!ENTITY title{$day} "Student Presentations (1)">
+<!ENTITY abbrev{$day} "presentations-1">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Student Presentations (2)">
+<!ENTITY abbrev{$day} "presentations-2">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "Wrapup">
+<!ENTITY abbrev{$day} "wrapup">
+<!ENTITY reading{$day} "">
+
++day
+<!ENTITY title{$day} "TBD">
+<!ENTITY abbrev{$day} "tbd">
+<!ENTITY reading{$day} "">
+
+

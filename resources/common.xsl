@@ -91,4 +91,10 @@
   <span class="overview"><xsl:apply-templates/></span>
 </xsl:template>
 
+<!-- Titles of class days in the schedule -->
+<xsl:template match="daytitle">
+  <span class="daytitle"><xsl:apply-templates/></span>
+</xsl:template>
+
+
 </xsl:stylesheet>
