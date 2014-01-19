@@ -1,0 +1,149 @@
+<section id="Readings"><title>Readings</title>
+
+<para>
+  <emphasis role="strong">Summary</emphasis>: To improve the quality
+  of our discussions of the various readings this semester, students
+  must submit discussion questions and topics the evening before each
+  reading is to be discussed.  This document summarizes my policies for
+  reading discussions.
+</para>
+
+<para>
+  <emphasis role="strong">Citation</emphasis>: 
+  This document is based on a document by Henry Walker, which can be found at 
+  <code><ulink url="http://www.cs.grinnell.edu/~walker/courses/223.sp02/discussion-questions.html"/></code>.
+</para>
+
+<section id="intro"><title>Introduction</title>
+
+<para>
+  Throughout this semester, I will assign readings from a variety of
+  texts.  I will do my best to assign each reading at least two days
+  in advance, although I will usually assign them further in advance.
+</para>
+
+<para>
+  Rather than repeating this same material in lecture, I will use class
+  time for clarifying topics covered in readings, bridging those topics,
+  and expanding ideas introduced in the texts. Toward this end, students
+  must read assigned materials before class and formulate two
+  discussion questions.
+</para>
+
+</section>
+
+<section id="questions"><title>Types of Questions</title>
+
+<para>
+  Appropriate types of questions include:
+</para>
+
+<itemizedlist>
+  <listitem>
+    questions concerning terms not defined in the reading,
+  </listitem>
+
+  <listitem>
+    questions to clarify ideas,
+  </listitem>
+
+  <listitem>
+    questions about the relationships between ideas or approaches,
+  </listitem>
+
+  <listitem>
+    questions regarding assumptions behind approaches,
+  </listitem>
+
+  <listitem>
+    questions concerning the motivation or necessity of ideas or protocols. 
+  </listitem>
+</itemizedlist>
+
+<para>
+  Thus, questions should seek to clarify points of confusion or to expand
+  ideas just introduced briefly.  For the most part, you should avoid
+  simple factual questions (unless the facts are in dispute). I will
+  assume that students have a clear understanding of topics not covered
+  in questions. You should be prepared to contribute to class discussions about
+  topics not covered in your questions.
+</para>
+
+</section> <!-- questions -->
+
+<section id="mechanics"><title>Mechanics</title>
+
+<para>
+  You should submit at least two well-thought-out question for each
+  day's readings.  (If we read more than one article for a particular class,
+  you need not ask questions for every article.)  You may submit additional 
+  questions for support and for extra credit.
+</para>
+
+<para>
+  Please submit your questions via electronic mail before 8 p.m. on the
+  evening before a discussion.  For example, if a reading is due on Friday,
+  discussion, submit your questions before 8 p.m. on Thursday evening.
+  I will collate (anonymous) discussion questions into a document which I 
+  will then place online.
+</para>
+
+<para>
+  I will grade discussion questions on a plus/check/minus/zero scale.
+  Most questions will receive a check.  Particularly interesting or
+  valuable questions will receive a plus.  Particularly poor, trivial,
+  awkwardly phrased, or otherwise inadequate questions will receive a minus.
+  Students who fail to submit their questions on time will receive a zero.
+</para>
+
+<para>
+  I will communicate grades on questions in a variety of ways.  I may send
+  you a note via electronic mail.  On the discussion page, I may group
+  questions with regards to quality.  (Doing so has the advantage that it
+  gives you a sense of how I have assessed a variety of questions.)  I may
+  simply record them in my gradebook, which I will try to distribute to you
+  weekly.  I may find other approaches.
+</para>
+
+</section> <!-- mechanics -->
+
+<section id="other-issues"><title>Some Other Issues</title>
+
+<para>
+  I expect that you are competent readers.  Among other things, that
+  expectation means that I expect you to be able to tell me the following
+  about most works that we read:
+</para>
+
+<itemizedlist>
+  <listitem>
+    What is the author's thesis or primary claim?
+    <itemizedlist>
+      <listitem>In your words.</listitem>
+      <listitem>In the author's words.</listitem>
+    </itemizedlist>
+  </listitem>
+
+  <listitem>
+    Where in the essay does the author state this claim or thesis?
+  </listitem>
+
+  <listitem>
+    Are there additional/subsidiary claims?  If so, what are they?
+  </listitem>
+
+  <listitem>
+    What is the structure of the author's argument?
+  </listitem>
+</itemizedlist>
+
+<para>
+  Since one of the central course goals is to develop techniques to
+  assess and evaluate tecnologies, I am likely to ask the class to 
+  decide what strategies for thinking about technology we can garner 
+  from each reading.
+</para>
+
+</section> <!-- other-issues -->
+
+</section> <!-- readings -->
