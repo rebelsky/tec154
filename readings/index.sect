@@ -1,5 +1,20 @@
-<section id="index-&group;"><title>List of &group;</title>
+<section id="index-readings"><title>Readings</title>
 
-<para id="{$group}"></para>
+<para>
+  Please read <ulink url="../handouts/readings.html">The notes on
+  responding to readings</ulink>.
+</para>
 
-</section> <!-- index-&group; -->
+<para>
+  Questions and other notes on individual sets of readings follow.
+</para>
+
+<para>
+  &week01;
+</para>
+
+<itemizedlist>
+  <listitem>&reading02; ($date02)</listitem>
+</itemizedlist>
+
+</section> <!-- index-readings -->
