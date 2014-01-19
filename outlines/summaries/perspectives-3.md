@@ -1,3 +1,3 @@
-We conclude this group of explorations by considering three authors
-who suggest that we should revisit the ways in which we develop
-technologies.
+We consider a pair of relatively recent readings and what they say 
+not only about a potential technological future, but also about
+ways to look at technologies.

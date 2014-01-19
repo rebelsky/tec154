@@ -1,3 +1,2 @@
-We consider a pair of relatively recent readings and what they say 
-not only about a potential technological future, but also about
-ways to look at technologies.
+We consider two perspectives on technology from the start of the 
+"technology studies" era.

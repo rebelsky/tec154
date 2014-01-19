@@ -1,5 +1,4 @@
-* Clarifications.
-* Main Points (Small Groups).
-* Main Points, Revisited.
-* Lenses.
-* Open Discussion.
+* Mesthene overview: Thesis, Argumentative Structure.
+* Mesthene clarifications.
+* Mesthene in the 21st century.
+* McDermott's basics.

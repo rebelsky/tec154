@@ -1,2 +1,1 @@
-We consider two perspectives on technology from the start of the 
-"technology studies" era.
+We explore two very different perspectives on technoogy.

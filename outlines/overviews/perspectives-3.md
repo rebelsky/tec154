@@ -1,2 +1,5 @@
-* Questions on the readings (small groups).
-* Reflection on small-group discussion (large group).
+* Clarifications.
+* Main Points (Small Groups).
+* Main Points, Revisited.
+* Lenses.
+* Open Discussion.
