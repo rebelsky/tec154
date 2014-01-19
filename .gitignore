@@ -65,3 +65,6 @@ forks/*
 
 # Ignore the link to the old version
 2010S
+
+# Ignore the link to the generic course
+generic
