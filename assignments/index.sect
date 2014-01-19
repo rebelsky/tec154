@@ -1,5 +1,14 @@
-<section id="index-&group;"><title>List of &group;</title>
+<section id="index-assignments"><title>Assignments</title>
 
-<para id="{$group}"></para>
+<para>
+  Here you will find links to the (few) special tasks I assign, 
+  assignments beyond the normal course readings.
+</para>
 
-</section> <!-- index-&group; -->
+<itemizedlist>
+  <listitem>
+    <ulink url="../assignments/assignment.01.html">Assignment 1: Course Details and Introductory Survey</ulink (readings due 8:00 p.m. &tue01; remainder due 8:00 a.m. &wed01;).
+  </listitem>
+</itemizedlist>
+
+</section> <!-- index-assignments -->
