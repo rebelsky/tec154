@@ -5,16 +5,19 @@
 <!ENTITY title{$day} "An Introduction to the Course">
 <!ENTITY abbrev{$day} "intro">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "<notetakers>SA &amp; EL (BW alt)</notetakers>">
 
 +day
 <!ENTITY title{$day} "What is Technology?">
 <!ENTITY abbrev{$day} "technology">
-<!ENTITY reading{$day} "">
+<!ENTITY reading{$day} "<ulink url='../readings/teich-1.html'>Teich, Group 1</ulink>">
+<!ENTITY notetakers{$day} "<notetakers>DB &amp; FL</notetakers>">
 
 +day
 <!ENTITY title{$day} "More Foundational Perspectives">
 <!ENTITY abbrev{$day} "foundations">
-<!ENTITY reading{$day} "">
+<!ENTITY reading{$day} "<ulink url='../readings/teich-2.html'>Teich, Group 2</link>">
+<!ENTITY notetakers{$day} "<notetakers>FC &amp; AL</notetakers>">
 
 +week
 <!ENTITY week{$week} "Stone Tools (Whittaker, Anthropology)">
@@ -22,17 +25,20 @@
 +day
 <!ENTITY title{$day} "Stone Tools (1)">
 <!ENTITY abbrev{$day} "tools-1">
-<!ENTITY reading{$day} "">
+<!ENTITY reading{$day} "<ulink url='../readings/whittaker.html'>Whittaker</link>">
+<!ENTITY notetakers{$day} "<notetakers>TD &amp; DP</notetakers>">
 
 +day
 <!ENTITY title{$day} "Stone Tools (2)">
 <!ENTITY abbrev{$day} "tools-2">
-<!ENTITY reading{$day} "">
+<!ENTITY reading{$day} "<ulink url='../readings/stone-tools.html'>Stone Tools</link>">
+<!ENTITY notetakers{$day} "<notetakers>MG &amp; DS</notetakers>">
 
 +day
 <!ENTITY title{$day} "Stone Tools (Discussion)">
 <!ENTITY abbrev{$day} "tools-discussion">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "<notetakers>EG &amp; ZS</notetakers>">
 
 +week
 <!ENTITY week{$week} "An Engineering Perspective">
@@ -40,17 +46,21 @@
 +day
 <!ENTITY title{$day} "Engineering (1)">
 <!ENTITY abbrev{$day} "engineering-1">
+<!ENTITY reading{$day} "<ulink url='../readings/petroski-1.html'>Petroski 1-7</link>">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "<notetakers>LG &amp; IT</notetakers>">
 
 +day
 <!ENTITY title{$day} "Engineering (2)">
 <!ENTITY abbrev{$day} "engineering-2">
-<!ENTITY reading{$day} "">
+<!ENTITY reading{$day} "<ulink url='../readings/petroski-2.html'>Petroski 8-13</link>">
+<!ENTITY notetakers{$day} "<notetakers>PG &amp; JV</notetakers>">
 
 +day
 <!ENTITY title{$day} "Engineering (3)">
 <!ENTITY abbrev{$day} "engineering-3">
-<!ENTITY reading{$day} "">
+<!ENTITY reading{$day} "<ulink url='../readings/petroski-3.html'>Petroski 14-17</link>">
+<!ENTITY notetakers{$day} "<notetakers>MK &amp; LY</notetakers>">
 
 +week
 <!ENTITY week{$week} "Food (Lyons, Chemistry)">
@@ -59,16 +69,19 @@
 <!ENTITY title{$day} "Farming">
 <!ENTITY abbrev{$day} "farming">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Food Preservation">
 <!ENTITY abbrev{$day} "food-preservation">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Food (Discussion)">
 <!ENTITY abbrev{$day} "food-discussion">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +week
 <!ENTITY week{$week} "Other Perspectives">
@@ -76,17 +89,20 @@
 +day
 <!ENTITY title{$day} "Perspectives (1)">
 <!ENTITY abbrev{$day} "perspectives-1">
-<!ENTITY reading{$day} "">
+<!ENTITY reading{$day} "<ulink url='../readings/teich-3.html'>Teich, Group 3</link>">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Perspectives (2)">
 <!ENTITY abbrev{$day} "perspectives-2">
-<!ENTITY reading{$day} "">
+<!ENTITY reading{$day} "<ulink url='../readings/teich-4.html'>Teich, Group 4</link>">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Perspectives (3)">
 <!ENTITY abbrev{$day} "perspectives-3">
-<!ENTITY reading{$day} "">
+<!ENTITY reading{$day} "<ulink url='../readings/teich-5.html'>Teich, Group 5</link>">
+<!ENTITY notetakers{$day} "">
 
 +week
 <!ENTITY week{$week} "Human Factors in Technology">
@@ -95,16 +111,19 @@
 <!ENTITY title{$day} "Human Factors (1)">
 <!ENTITY abbrev{$day} "human-factors-1">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Human Factors (2)">
 <!ENTITY abbrev{$day} "human-factors-2">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Human Factors (3)">
 <!ENTITY abbrev{$day} "human-factors-3">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +week
 <!ENTITY week{$week} "Mid-Semester Examination">
@@ -113,16 +132,19 @@
 <!ENTITY title{$day} "Where We've Been, Where We're Going">
 <!ENTITY abbrev{$day} "midsem-review">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Mid-Semester Exam, Part One">
 <!ENTITY abbrev{$day} "midsem-1">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Mid-Semester Exam, Part Two">
 <!ENTITY abbrev{$day} "midsem-2">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +week
 <!ENTITY week{$week} "Digital Humanities (Lee, English)">
@@ -131,16 +153,19 @@
 <!ENTITY title{$day} "Digital Humanities (1)">
 <!ENTITY abbrev{$day} "digital-humanities-1">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Digital Humanities (2)">
 <!ENTITY abbrev{$day} "digital-humanities-2">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Digital Humanities (Discussion)">
 <!ENTITY abbrev{$day} "digital-humanities-discussion">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +week
 <!ENTITY week{$week} "Biotechnology (Robertson, Biology)">
@@ -149,16 +174,19 @@
 <!ENTITY title{$day} "Biotechnology (1)">
 <!ENTITY abbrev{$day} "biotechnology-1">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Biotechnology (2)">
 <!ENTITY abbrev{$day} "biotechnology-2">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Intellectual Property (1)">
 <!ENTITY abbrev{$day} "ip-1">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +week
 <!ENTITY week{$week} "Intellectual Property (Graham, Economics)">
@@ -167,16 +195,19 @@
 <!ENTITY title{$day} "Biotechnology (Discussion)">
 <!ENTITY abbrev{$day} "biotechnology-discussion">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Bipiracy (1)">
 <!ENTITY abbrev{$day} "biopiracy-1">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Intellectual Property (2)">
 <!ENTITY abbrev{$day} "ip-2">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +week
 <!ENTITY week{$week} "Biopiracy (Roper, Anthropology)">
@@ -185,16 +216,19 @@
 <!ENTITY title{$day} "Bipiracy (2)">
 <!ENTITY abbrev{$day} "biopiracy-2">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Bipiracy (3)">
 <!ENTITY abbrev{$day} "biopiracy-3">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Owning Biology">
 <!ENTITY abbrev{$day} "owning-biology">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +week
 <!ENTITY week{$week} "Technology and the Arts">
@@ -203,16 +237,19 @@
 <!ENTITY title{$day} "Pause for Breath">
 <!ENTITY abbrev{$day} "pause">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Papermaking (Running, Art)">
 <!ENTITY abbrev{$day} "papermaking">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Technology and the Theatre (Thomas, Theatre/Dance)">
 <!ENTITY abbrev{$day} "theatre">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +week
 <!ENTITY week{$week} "Social Media (Yoose, Library)">
@@ -221,16 +258,19 @@
 <!ENTITY title{$day} "Social Media (1)">
 <!ENTITY abbrev{$day} "social-media-1">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Social Media (2)">
 <!ENTITY abbrev{$day} "social-media-2">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Social Media (Discussion)">
 <!ENTITY abbrev{$day} "social-media-discussion">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +week
 <!ENTITY week{$week} "Student Presentations">
@@ -239,19 +279,22 @@
 <!ENTITY title{$day} "Student Presentations (1)">
 <!ENTITY abbrev{$day} "presentations-1">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Student Presentations (2)">
 <!ENTITY abbrev{$day} "presentations-2">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
 <!ENTITY title{$day} "Wrapup">
 <!ENTITY abbrev{$day} "wrapup">
 <!ENTITY reading{$day} "">
+<!ENTITY notetakers{$day} "">
 
 +day
-<!ENTITY title{$day} "TBD">
+<!ENTITY title{$day} "To Be Determined">
 <!ENTITY abbrev{$day} "tbd">
 <!ENTITY reading{$day} "">
 
