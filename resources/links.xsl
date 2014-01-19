@@ -19,20 +19,24 @@
   [<a href="../handouts/disabilities.html">Disabilities</a>]
   [<a href="../handouts/email.html">Email</a>]
   [<a href="../handouts/faq.html">FAQ</a>]
+  [<a href="../handouts/notes.html">Notes</a>]
+  [<a href="../handouts/readings.html">Readings</a>]
   [<a href="../handouts/teaching.html">Teaching &amp; Learning</a>]
   -
   [<a href="http://bit.ly/tec154gcal">Calendar</a>]
 </p>
 <p class="links"><b>Current:</b>
-  [<a href="../outlines/current.html">Outline</a>] 
+  [<a href="../assignments/current.html">Assignment</a>]
   [<a href="../eboards/current.html">EBoard</a>]
-  [<a href="../readings/current.html">Reading (Notes on)</a>]
+  [<a href="../outlines/current.html">Outline</a>] 
+  [<a href="../readings/current.html">Reading</a>]
 </p>
 <p class="links"> <b>Sections:</b> 
+  [<a href="../assignments/">Assignments</a>]
   [<a href="../eboards/">EBoards</a>] 
   [<a href="../handouts/">Handouts</a>] 
   [<a href="../outlines/">Outlines</a>] 
-  [<a href="../readings/">Readings (Notes on)</a>]
+  [<a href="../readings/">Readings</a>]
 </p>
 <p class="links"> <b>Misc:</b> 
   [<a href="http://www.cs.grinnell.edu/~rebelsky/Courses/TEC154/2010S/">TEC 154 2010S</a>]
