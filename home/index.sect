@@ -1,7 +1,174 @@
 <section id="front-door"><title>Front Door</title>
 
 <para>
-  Welcome to the &semester; section of &courseid; - &coursename;.
+  Welcome to the Spring 2014 session of Grinnell College's TEC 154,
+  <emphasis>The Evolution of Technology</emphasis>, which is described briefly
+  in the official <ulink url="../handouts/blurb.html">blurb</ulink> and the
+  unofficial <ulink url="../handouts/goals.html">goals</ulink> distributed by
+  faculty who previously taught this course.
 </para>
+
+<para>
+  My own take on the class is that we will consider the nature and effect
+  of technology from several perspectives.  Rather than simply considering
+  a history of technology, we will instead reflect on a small number of
+  technologies, their design, their context, and their impact.  To help us
+  reflect, we will rely on a number of guest lecturers from across campus.
+</para>
+
+<para>
+  In an attempt to provide up-to-date information, and to spare a few
+  trees, I am making this as much of a <quote>paperless</quote> course
+  as I can.  Hence, materials will be in a course web, available at
+  <code><ulink url="&url;"/></code>.
+</para>
+
+<section><title>Basics</title>
+
+<para>
+  <emphasis role="strong">Meets</emphasis>: MWF 8:00-8:50, Science 3821.
+</para>
+
+<para>
+  <emphasis role="strong">Instructor</emphasis>:
+  <ulink url="http://www.cs.grin.edu/~rebelsky/">Samuel A. Rebelsky</ulink>
+  (<ulink url="mailto:rebelsky@grinnell.edu">rebelsky@grinnell.edu</ulink>),
+  Science 3824.  
+  I also tend to follow an open door policy: Feel
+  free to stop by when my door is open or to make an appointment for
+  another time.  Check my
+  <ulink url="http://www.cs.grinnell.edu/~rebelsky/schedule.html">schedule</ulink>
+  for more details.
+</para>
+
+</section>
+
+<section><title>Grading</title>
+
+<para>
+<emphasis>This grading system is tentative, and may change.</emphasis>
+</para>
+
+<itemizedlist>
+  <listitem>
+    Class participation (10%).
+  </listitem>
+
+  <listitem>
+    Questions and comments on readings (20%).
+  </listitem>
+
+  <listitem>
+    Final paper about a technology not covered in class (20%).  You may
+    work on this paper alone or in a group of size two or three.
+  </listitem>
+
+  <listitem>
+    Edits of classmates' papers (10%).
+  </listitem>
+
+  <listitem>
+    Presentation (10%).
+  </listitem>
+
+  <listitem>
+    Midterm (20%).
+  </listitem>
+
+  <listitem>
+    Final (20%).
+  </listitem>
+
+  <listitem>
+    Worst of (midterm, paper, final, readings) (-10%).  That is, whichever
+    of the major components of your grade is weakest has the least impact on
+    your final grade.
+  </listitem>
+</itemizedlist>
+
+<para>
+  My experience shows that students who turn in work late learn
+  significantly less than students who turn material in on time.
+  (I'm not sure about cause and effect.)  Hence, I strongly discourage
+  late assignments.  Unless prior arrangements have been made, assignments
+  are due within five minutes after the start of class.  After that they
+  are considered late.  Late assignments are penalized one letter grade
+  per day late (or fraction thereof).
+</para>
+
+<para>
+  <emphasis role="strong">Extra Credit</emphasis>:
+  I will often offer one unit of extra credit for attending a specified
+  academic event (e.g., a computer science talk or College convocation)
+  or for supporting your classmates in their public endeavors (e.g.,
+  attending a concert, dance recital, or sporting event).  Each category
+  is capped at four units of extra credit, which count as one point
+  toward your final grade.  So, if you attend four academic events and
+  four peer support events, you will receive an additional two points
+  toward your final grade.  For any activity you wish to credit this way,
+  you must send me a short (one paragraph) note about the activity within
+  two days of the activity.
+</para>
+
+</section>
+
+<section id="books"><title>Books and Other Readings</title>
+
+<variablelist>
+  <varlistentry>
+    <term>
+      Norman, Donald A. (2013).  
+      <emphasis>The Design of Everyday Things, Revised Edition</emphasis>.  
+      Basic Books.
+    </term>
+    <listitem>
+      A (now revised) classic reflection on the way in which things
+      are designed and how those designs affect the way in which we use
+      the things.
+    </listitem>
+  </varlistentry>
+
+  <varlistentry>
+    <term>
+      Petroski, Henry (1992).  
+      <emphasis>To Engineer is Human: The Role of Failure in Successful Design</emphasis>.  
+      Vintage.
+    </term>
+    <listitem>
+      An engineer's reflections on technology.
+    </listitem>
+  </varlistentry>
+
+  <varlistentry>
+    <term>
+      Rebelsky, Samuel (2014).  
+      <ulink url="index.html">The TEC154 2014S Course Web</ulink>.
+    </term>
+    <listitem>
+      The hypertext that you are currently reading.
+    </listitem>
+  </varlistentry>
+
+  <varlistentry>
+    <term>
+      Teich, Albert H., Ed. (2005).  
+      <emphasis>Technology and the Future</emphasis>, 10th ed.  
+      Wadsworth.
+    </term>
+    <listitem>
+      A broad range of articles on technology.  Although this text is now
+      in its 12th edition, we will rely on the 10th edition because it
+      contains the primary readings we will use.  (I'd prefer that you use
+      the 10th edition so that we all have the same page numbers.)
+    </listitem>
+  </varlistentry>
+</variablelist>
+
+<para>
+  We will also read a variety of additional articles, some suggested by
+  our visitors and some added in forthcoming weeks.
+</para>
+
+</section> <!-- books -->
 
 </section> <!-- front-door -->
