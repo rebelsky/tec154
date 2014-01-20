@@ -1,10 +1,37 @@
-<section id="index-&group;"><title>List of &group;</title>
+<section id="index-handouts"><title>Assorted :Handouts</title>
 
 <itemizedlist>
-<listitem><ulink url="academic-honesty.html">Policies on Academic Honesty</ulink></listitem>
-<listitem><ulink url="disabilities.html">Notes on Students with Disabilities</ulink></listitem>
-<listitem><ulink url="faq.html">Frequently (and not so frequently) Asked Questions</ulink></listitem>
-<listitem><ulink url="email.html">Thoughts on Email and Encryption</ulink></listitem>
+  <listitem>
+    <ulink url="academic-honesty.html">Policies on Academic Honesty</ulink>
+  </listitem>
+
+  <listitem>
+    <ulink url="disabilities.html">Notes on students with disabilities</ulink>
+  </listitem>
+
+  <listitem>
+    <ulink url="faq.html">Frequently (and not so frequently) Asked Questions</ulink>
+  </listitem>
+
+  <listitem>
+    <ulink url="teaching.html">Thoughts on Teaching and Learning</ulink>
+  </listitem>
+
+  <listitem>
+    <ulink url="goals.html">Course goals</ulink>
+  </listitem>
+
+  <listitem>
+    <ulink url="email.html">Thoughts on Email and Encryption</ulink>
+  </listitem>
+
+  <listitem>
+    <ulink url="../handouts/notes.html">Notes on taking notes</ulink>
+  </listitem>
+
+  <listitem>
+    <ulink url="../handouts/readings.html">Notes on responding to readings</ulink>
+  </listitem>
 </itemizedlist>
 
-</section> <!-- index-&group; -->
+</section> <!-- index-handouts -->
