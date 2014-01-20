@@ -1,7 +1,4 @@
 @html2ps {
-  option {
-    landscape: 1;
-  }
 }
 
 TD {
