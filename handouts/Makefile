@@ -10,9 +10,7 @@ schedule.sect: $(MKSCHEDULE)
 	$(MKSCHEDULE) mwf-spring-notes > $@
 
 # Hacks for generating a decent PDF of the schedule
-sched.sect: $(MKSCHEDULE)
-	$(MKSCHEDULE) mtwf-spring-alt > $@
-sched-munge.html: sched.html
+sched-munge.html: schedule.html
 	../tools/munge-schedule $< > $@
 schedule.ps: sched-munge.html schedule.h2p
 	html2ps -D -f schedule.h2p -o $@ $<
