@@ -93,12 +93,12 @@
 
 <!-- Titles of class days in the schedule -->
 <xsl:template match="daytitle">
-  <span class="break"><strong><xsl:apply-templates/></strong></span>
+  <span class="break"></span><strong><xsl:apply-templates/></strong>
 </xsl:template>
 
 <!-- Note takers in the schedule -->
 <xsl:template match="notetakers">
-  <span class="break"><em>Note takers: <xsl:apply-templates/></em></span>
+  <span class="break"></span><em>Note takers: <xsl:apply-templates/></em>
 </xsl:template>
 
 </xsl:stylesheet>
