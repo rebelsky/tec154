@@ -136,7 +136,8 @@ more detail/context.  For example, in the little "Readings" section at
 the end, it might be useful to have a note that "Sam is going to ask
 us to start with a relatively basic approach to readings."  Similarly,
 rather than "details are available online", you should probably have
-the links.  3. A "key points" summary at the end would be helpful._
+the links.  3. A "key points" summary at the end would be helpful.
+Of course, it may be that there were no key points today._
 
 * MLK day talk 7:30pm, JRC 101 for some extra credit. 
 
@@ -148,23 +149,25 @@ Assignments for Wednesday:
 
 What is technology?
 
-• Man-made matter created with the intention of fulfilling needs/wants/desires of humans
-• Something to help humans accomplish tasks
-• Constantly evolving 
-• Themes: 
-    • Aid humans 
-        • Maybe attempting to 
+* Man-made matter created with the intention of fulfilling needs/wants/desires of humans
+* Something to help humans accomplish tasks
+* Constantly evolving 
+* Themes: 
+    * Aid humans 
+        * Maybe attempting to 
     * Improving 
         * Our understanding of needs change constantly
 
 Concerns about technology/is it always positive?
 
-* Weapons – kill people
+* Weapons - kill people
 * Allows us to subjugate the environment
 * Can help us and our culture develop in bad ways (ignore the needs of other species)
 * While there are negative consequences, we hope that technology is intended to aid humans. 
 
 Merriam-Webster
+
+[http://www.merriam-webster.com/dictionary/technology]
 
 * The practical application of knowledge in a particular area     
 * A capability given by the practical application of knowledge
@@ -176,19 +179,26 @@ How does one study technology?
 
 * Study particular technologies   
     * General:  Form hypothesis, design and conduct experiment, learn   
-    * Specific: Scientific method – randomized controlled experiments about the efficiency and happiness of people who use the technology vs. those who do not 
+    * Specific: Scientific method - randomized controlled experiments about the efficiency and happiness of people who use the technology vs. those who do not 
     * Specific: observational approach
--   * Social scientific approach – consider the context of things – what social forces create it, what effects it has on people and society
--   * Study by use – what’s it like to use the technology? Individualized environment
+    * Social scientific approach - consider the context of things – what social forces create it, what effects it has on people and society
+    * Study by use - what's it like to use the technology? Individualized environment
 
 In this course:
--       Develop lenses to view technologies
--       Study specific technologies
+
+* Develop lenses to view technologies
+* Study specific technologies
 
 Course structure: details are online
-Expectations: attend and participate  
+
+Expectations: attend and participate [_A full list of expectations
+is on the course Web site.  There are daily questions on the readings,
+a mid-semester examination and final, a final paper and presentation,
+and a few other compnents._]
+
 Readings: 
--       What is the thesis?
--       What is the structure of the argument?
--       What evidence does the author provide?
+
+* What is the thesis?
+* What is the structure of the argument?
+* What evidence does the author provide?
 
