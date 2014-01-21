@@ -124,3 +124,71 @@ Expectations
     * What is the structure of the argument?
     * What evidence does the author provide?
     * Etc.
+
+Notes from SA
+-------------
+
+_A few thoughts from SamR on how these notes could be improved:
+1. Clarify which things are questions from the professor and which are
+responses from students.  (I don't want it to sound like this is all
+stuff that came from me; most of it is your ideas.)  2. Perhaps a bit
+more detail/context.  For example, in the little "Readings" section at
+the end, it might be useful to have a note that "Sam is going to ask
+us to start with a relatively basic approach to readings."  Similarly,
+rather than "details are available online", you should probably have
+the links.  3. A "key points" summary at the end would be helpful._
+
+* MLK day talk 7:30pm, JRC 101 for some extra credit. 
+
+Assignments for Wednesday: 
+
+1. Introductory survey
+2. Three short readings 
+    * Two questions in total for the three readings. 
+
+What is technology?
+
+• Man-made matter created with the intention of fulfilling needs/wants/desires of humans
+• Something to help humans accomplish tasks
+• Constantly evolving 
+• Themes: 
+    • Aid humans 
+        • Maybe attempting to 
+    * Improving 
+        * Our understanding of needs change constantly
+
+Concerns about technology/is it always positive?
+
+* Weapons – kill people
+* Allows us to subjugate the environment
+* Can help us and our culture develop in bad ways (ignore the needs of other species)
+* While there are negative consequences, we hope that technology is intended to aid humans. 
+
+Merriam-Webster
+
+* The practical application of knowledge in a particular area     
+* A capability given by the practical application of knowledge
+* In general - building things by applying knowledge
+
+Sam hopes that we will look at how technologies are developed, how they might aid people (and what aid we intend), what knowledge they apply, and so on and so forth. 
+
+How does one study technology?
+
+* Study particular technologies   
+    * General:  Form hypothesis, design and conduct experiment, learn   
+    * Specific: Scientific method – randomized controlled experiments about the efficiency and happiness of people who use the technology vs. those who do not 
+    * Specific: observational approach
+-   * Social scientific approach – consider the context of things – what social forces create it, what effects it has on people and society
+-   * Study by use – what’s it like to use the technology? Individualized environment
+
+In this course:
+-       Develop lenses to view technologies
+-       Study specific technologies
+
+Course structure: details are online
+Expectations: attend and participate  
+Readings: 
+-       What is the thesis?
+-       What is the structure of the argument?
+-       What evidence does the author provide?
+
